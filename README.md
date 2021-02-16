@@ -178,7 +178,7 @@ pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 3. 将pull.yml里面的`mergeMethod: hardreset`修改为`mergeMethod: merge`保存。
 4. ENJOY!上游更改三小时左右就会自动发起同步。
 
-## 鸣谢
+##鸣谢1＆_device = iPhone＆B8A42C6F-C0C5-40EA-8ED0-E60BCB11049B＆2.1.3; 1＆_token = 98655100＆607C2FB0140C8F426829C5C7623DB3043F4D2817BCFB63AB2B0039B91867A5E7E1DA2BCD8536130MAF5E6B9BD581021_ ; NSUP = 42E8EDBF％2C4202AA37％2C1613439565824; XD = Wp4rcFMHn9HmnOx0pDEWd5vRq / C0WZvVNHT3f7RnfuPf9mHVou3Mv6vqjD5EuS19XzaqmPTJzBQvh40pRCJoRw ==; XUM = B8A42C6F-C0C5-40EA-8ED0-E60BCB11049B; ainr = 0; c-oper =％E6％9C％AA％E7％9F％A5; channel = ios-b1; device_model = iPhone 12 Pro Max；idfa = B8A42C6F-C0C5-40EA-8ED0-E60BCB11049B; impl = com.ximalaya.tingLite; ip = 10.26.60.22; net-mode = WIFI; res = 1284％2C2778; _xmLog = h5＆1164e498-87bc-42da-9670-1577f73a9791＆2.2.5      
 
 [@NobyDa](https://github.com/NobyDa) - 京东每日签到
 
